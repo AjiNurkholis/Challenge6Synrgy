@@ -1,0 +1,42 @@
+
+r
+java:S1192)"UDefine a constant instead of duplicating this literal "====================" 8 times.(ä¹¿“8¥å’¡ª1
+z	java:S135("YReduce the total number of break and continue statements in this loop to use at most one.(˜ïˆÿÿÿÿÿ8¦å’¡ª1
+n
+java:S2095X"LUse try-with-resources or close this "BufferedWriter" in a "finally" clause.(ÄğÉüøÿÿÿÿ8Šç’¡ª1
+o
+java:S3776"RRefactor this method to reduce its Cognitive Complexity from 32 to the 15 allowed.(Çµí‘8ç’¡ª1
+f
+java:S1854U"DRemove this useless assignment to local variable "metodePembayaran".(»öëµşÿÿÿÿ8‘ç’¡ª1
+9
+java:S3626‘"Remove this redundant jump.(ÉŠ©ƒ8’ç’¡ª1
+G	java:S106)"+Replace this use of System.out by a logger.(ä¹¿“8˜ç’¡ª1
+G	java:S106*"+Replace this use of System.out by a logger.(Ó®üè8˜ç’¡ª1
+G	java:S106+"+Replace this use of System.out by a logger.(ä¹¿“8™ç’¡ª1
+F	java:S106-"+Replace this use of System.out by a logger.(Î˜ï98šç’¡ª1
+G	java:S106/"+Replace this use of System.out by a logger.(²¾Œ÷8šç’¡ª1
+L	java:S1060"+Replace this use of System.out by a logger.(·ÓËşÿÿÿÿ8šç’¡ª1
+L	java:S1061"+Replace this use of System.out by a logger.(­–´½øÿÿÿÿ8šç’¡ª1
+G	java:S1069"+Replace this use of System.out by a logger.(Œ½ê¤8›ç’¡ª1
+G	java:S106="+Replace this use of System.out by a logger.(ä¹¿“8›ç’¡ª1
+L	java:S106>"+Replace this use of System.out by a logger.(âµºçÿÿÿÿÿ8œç’¡ª1
+G	java:S106?"+Replace this use of System.out by a logger.(ä¹¿“8œç’¡ª1
+G	java:S106A"+Replace this use of System.out by a logger.(Æ„ñç8œç’¡ª1
+L	java:S106G"+Replace this use of System.out by a logger.(…Üàşÿÿÿÿ8ç’¡ª1
+L	java:S106H"+Replace this use of System.out by a logger.(•ğ„˜ùÿÿÿÿ8ç’¡ª1
+L	java:S106J"+Replace this use of System.out by a logger.(çïñÉúÿÿÿÿ8ç’¡ª1
+G	java:S106K"+Replace this use of System.out by a logger.(Òß—ç8ç’¡ª1
+L	java:S106L"+Replace this use of System.out by a logger.(·ÓËşÿÿÿÿ8ç’¡ª1
+L	java:S106M"+Replace this use of System.out by a logger.(­–´½øÿÿÿÿ8ç’¡ª1
+G	java:S106R"+Replace this use of System.out by a logger.(¡ñğÎ8Ÿç’¡ª1
+L	java:S106S"+Replace this use of System.out by a logger.(éµî‘ÿÿÿÿÿ8Ÿç’¡ª1
+W
+java:S1481U"5Remove this unused "metodePembayaran" local variable.(»öëµşÿÿÿÿ8 ç’¡ª1
+G	java:S106y"+Replace this use of System.out by a logger.(«òš8¥ç’¡ª1
+H	java:S106†"+Replace this use of System.out by a logger.(ä¹¿“8¦ç’¡ª1
+H	java:S106‡"+Replace this use of System.out by a logger.(ñİÃ´8¦ç’¡ª1
+H	java:S106ˆ"+Replace this use of System.out by a logger.(ä¹¿“8¦ç’¡ª1
+H	java:S106‰"+Replace this use of System.out by a logger.(à«¤8§ç’¡ª1
+M	java:S106Š"+Replace this use of System.out by a logger.(Ù‡Èºıÿÿÿÿ8§ç’¡ª1
+H	java:S106‹"+Replace this use of System.out by a logger.(÷ÅÏ‡8§ç’¡ª1
+H	java:S106—"+Replace this use of System.out by a logger.(›÷Ş8¨ç’¡ª1
